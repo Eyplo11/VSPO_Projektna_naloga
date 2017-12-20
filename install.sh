@@ -47,3 +47,8 @@ else
 fi
 
 echo -e "\n"
+
+sudo mv /home/marsel/Desktop/Spletna_stran /var/www/html
+cd /var/www/html/Spletna_stran
+firefox Domaca_stran.html
+

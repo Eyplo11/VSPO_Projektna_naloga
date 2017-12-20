@@ -26,3 +26,5 @@ else
 fi
 
 echo -e "\n"
+cd /var/www/html
+sudo rm -r Spletna_stran
